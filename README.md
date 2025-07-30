@@ -153,13 +153,6 @@ This project analyzes the relationship between sleep patterns and chronic diseas
 
 ## Key Visualizations
 
-*Note: Interactive visualizations and images are generated in the Jupyter notebook analysis.*
-
-> **📷 Image Display Troubleshooting**: If images don't display in VSCode markdown preview:
-> 1. Open VSCode workspace from the `Capstone-Assignment-20.1-main` folder directly
-> 2. Use Cmd+Shift+P → "Markdown: Open Preview" while README is active
-> 3. Ensure VSCode has the correct working directory context
-
 ### Image 1: Sleep Duration Distribution
 ![Sleep Duration Distribution](images/sleep_duration_distribution.png)
 
